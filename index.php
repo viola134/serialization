@@ -18,3 +18,5 @@ foreach ($arr as $name => $type) {
     echo "</tr>";
 }
 echo "</table>";
+fclose($open);
+fclose($open2);
