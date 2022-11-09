@@ -1,0 +1,1 @@
+a:3:{s:5:"fruit";s:5:"apple";s:5:"berry";s:10:"strawberry";s:9:"vegetable";s:8:"cucumber";}
